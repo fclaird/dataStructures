@@ -1,0 +1,43 @@
+Realtor AA1111111, Anna Astrid
+      Property 1111111 is SOLD
+      Property 1111122 is available for $1.11345345111E11
+      Property 1111811 is SOLD
+Realtor BB2222222, Bob Benson
+      Property 2222211 is available for $2.2227722E7
+      Property 2222222 is SOLD
+      Property 2232211 is available for $222222.0
+      Property 2226222 is SOLD
+Realtor CC3333333, Carl Carlson
+      Property 3333333 is SOLD
+Realtor DD1111111, Anna Astrid
+      Property 4111111 is SOLD
+      Property 31111222 is available for $1.1111166666E10
+Realtor EE2222222, Bob Benson
+      Property 2272211 is available for $222222.0
+      Property 2922222 is SOLD
+Realtor FF3333333 does not exist
+Realtor JJ1111111, Anna Astrid
+Realtor KK2222222, Bob Benson
+Realtor LL3333333, Anna Astrid
+Realtor MM1111111 does not exist
+Realtor NN2222222 does not exist
+Realtor GG1111111, Anna Astrid
+Realtor HH2222222, Bob Benson
+Realtor II3333333, Anna Astrid
+      Property 1211111 is SOLD
+Realtor JJ1111111, Anna Astrid
+      Property 1121111 is SOLD
+Realtor KK2222222, Bob Benson
+Realtor LL3333333, Anna Astrid
+      Property 1115111 is SOLD
+Realtor MM1111111 does not exist
+Realtor NN2222222 does not exist
+Realtor OO3333333, Anna Astrid
+      Property 1118111 is SOLD
+Realtor PP1111111, Anna Astrid
+      Property 1119111 is SOLD
+Realtor QQ2222222, Anna Astrid
+      Property 9111111 is SOLD
+      Property 2622222 is SOLD
+Realtor RR3333333, Anna Astrid
+      Property 9114111 is SOLD

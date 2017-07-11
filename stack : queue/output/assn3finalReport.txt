@@ -1,0 +1,117 @@
+AA1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+AB1234567 Ferguson, Jose
+
+        7654321          567 Main St  3/1.5  $  2.22345345333E11  
+                    Denver,  CO 80221
+
+    Number of property listings for realtor: 1
+    Total sales value of property listings for realtor:  $ 2.22345345333E11
+
+BB2222222 Benson, Bob
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+DD1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+DK4567890 Swarez, Antonia
+
+        9876543          111 Hover St  4/2.0  $  3.234534132111E12  SOLD
+                    Longmont,  CO 80501
+
+    Number of property listings for realtor: 1
+    Total sales value of property listings for realtor:  $ 3.234534132111E12
+
+EE2222222 Benson, Bob
+
+        2222211          222 Flower Ln  3/1.5  $  222222.0  
+                    Somewhere,  WX 802211
+
+        2222222          1234 First St  4/2.0  $  2.22222111E8  SOLD
+                    Elsewhere,  CO 80221
+
+    Number of property listings for realtor: 2
+    Total sales value of property listings for realtor:  $ 2.22444333E8
+
+GG1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+HH1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+HH2222222 Benson, Bob
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+II2222222 Benson, Bob
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+II3333333 Astrid, Anna
+
+        1111111          111 Main St  2/1.0  $  1.11112353411111E14  SOLD
+                    Denver,  CO 80221
+
+    Number of property listings for realtor: 1
+    Total sales value of property listings for realtor:  $ 1.11112353411111E14
+
+JJ1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+KK1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+KK2222222 Benson, Bob
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+LL3333333 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+MM1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+NN2222222 Benson, Bob
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+OO3333333 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+PP1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+QQ2222222 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+Total number of property listings for all realtors = 5
+Total sales value of property listings for realtors = $ 1.14569455332888E14

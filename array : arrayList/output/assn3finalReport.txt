@@ -1,0 +1,49 @@
+AA1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+AB1234567 Ferguson, Jose
+
+        7654321          567 Main St  3/1.5  $  222333.0  
+                    Denver,  CO 80221
+
+    Number of property listings for realtor: 1
+    Total sales value of property listings for realtor:  $ 222333.0
+
+BB2222222 Benson, Bob
+
+        2222211          222 Flower Ln  3/1.5  $  222222.0  
+                    Somewhere,  WX 802211
+
+        2222222          1234 First St  4/2.0  $  222222.0  SOLD
+                    Elsewhere,  CO 80221
+
+    Number of property listings for realtor: 2
+    Total sales value of property listings for realtor:  $ 444444.0
+
+DD1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+DK4567890 Swarez, Antonia
+
+        9876543          111 Hover St  4/2.0  $  321321.0  SOLD
+                    Longmont,  CO 80501
+
+    Number of property listings for realtor: 1
+    Total sales value of property listings for realtor:  $ 321321.0
+
+EE2222222 Benson, Bob
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+GG1111111 Astrid, Anna
+
+    Number of property listings for realtor: 0
+    Total sales value of property listings for realtor:  $ 0.0
+
+Total number of property listings for all realtors = 4
+Total sales value of property listings for realtors = $ 988098.0
